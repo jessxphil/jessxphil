@@ -3,12 +3,10 @@
 <!--
 **jessxphil/jessxphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help to catch up with anyone here in 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on an ai-based startup. 
+- 🌱 These days, I'm deep diving into the world of conditional GANs. 
+- 👯 I’m looking to create an AI/ML and SWE prep interview course. 
+- 🤔 I’m looking to meet more machine learning engineers in the greater Atlanta or Alpharetta area! Let's link up! 
 
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://jessicaphillip.com/">website</a> 🖥
