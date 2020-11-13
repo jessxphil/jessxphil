@@ -13,5 +13,5 @@
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://jessicaphillip.com/">website</a> 🖥
 - Writing in public on <a href="https://medium.com/@jessxphil">Medium</a> ✍🏽
-- Sharing updates on <a href="https://www.linkedin.com/in/jessicaophillip">LinkedIn</a> and <a href="https://twitter.com/jessxphil">Twitter</a> 💼  🐦
+- Sharing updates on <a href="https://www.linkedin.com/in/jessicaphillip">LinkedIn</a> and <a href="https://twitter.com/jessxphil">Twitter</a> 💼  🐦
 
